@@ -1,0 +1,3 @@
+# open in: https://pypi.org/search/?q=colorprint-python
+# download: pip install colorprint-python
+colorprint-python
