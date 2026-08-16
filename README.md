@@ -32,5 +32,4 @@ A small terminal emulator written in Python.
 Clone the repository:
 
 ```bash
-git clone <repository-url>
-cd terminal
+git clone https://github.com/azikerkinov07-cell/terminal-python
